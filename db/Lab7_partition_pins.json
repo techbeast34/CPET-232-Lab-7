@@ -1,0 +1,133 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "outHEX3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "outHEX0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "inputB[3]",
+					"strict" : false
+				},
+				{
+					"name" : "inputA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "inputOP[0]",
+					"strict" : false
+				},
+				{
+					"name" : "inputOP[1]",
+					"strict" : false
+				},
+				{
+					"name" : "inputA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "inputA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "inputA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "inputB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "inputB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "inputB[2]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
